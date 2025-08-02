@@ -1,0 +1,14 @@
+.mail-box {
+  width: 80px;
+  height: 80px;
+  background: #f2f2f2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #888;
+  border-radius: 8px;
+  font-size: 2rem;
+  font-weight: bold;
+  box-shadow: 2px 2px 8px #ececec;
+  margin-bottom: 1rem;
+}
